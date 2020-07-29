@@ -1,0 +1,61 @@
+Package: com.trum37.nap368
+Name: Nạp368
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/nap368.deb
+MD5sum:e0ee579666c77c8f8284b087bd8b3ef9
+SHA1:a28accfbb33af48571159db67ad30d3a77634b57
+SHA256:4febf0918911a8da4a332a936e18505597f56ead4bdf21ce22866efa08ebce5a
+Size:62196
+Description: Nạp Game Trùm 37
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm 37 <dunghe222@gmail.com>
+Author: Trùm 37
+
+Package: com.trum37.xa368
+Name: Xả368
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/xa368.deb
+MD5sum:680ac0321afbf6155d50dc87990ed595
+SHA1:0f64289dd0bc6fd887a2a9dc7a0b9121023fa36e
+SHA256:b9bbdf5b87d79bc669204d96a8303b3aa589220f5879c048b6799883f03a3202
+Size:56592
+Description: Nạp Game Trùm 37
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm 37 <dunghe222@gmail.com>
+Author: Trùm 37
+
+Package: com.trum37.trum37nap
+Name: Trùm37Nạp
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/trum37nap.deb
+MD5sum:c8d3eefc8b5285f1ba19f4d0e72adf51
+SHA1:b39cbd5715476a17139088172528b3d14e9063c1
+SHA256:ec9f93b4a0b3010a374a68c696240948f3f6116649c7c1c4f2f119076fb2ccce
+Size:130226
+Description: Nạp Game Trùm 37
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm 37 <dunghe222@gmail.com>
+Author: Trùm 37
+
+Package: com.trum37.trum37xa
+Name: Trùm37Xả
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/trum37xa.deb
+MD5sum:c2ac5c1b1c31a5f576fef0911c213fe2
+SHA1:618e4c0d716c593e8b685c5d93a181027fd172c0
+SHA256:5eeb1237e31927e301117df19c3ef3dcd598fc92634cf81bb632c34b12b25323
+Size:119244
+Description: Nạp Game Trùm 37
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Trùm 37 <dunghe222@gmail.com>
+Author: Trùm 37
+
+
